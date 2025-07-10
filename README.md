@@ -16,7 +16,7 @@ An interactive story generation app built with **Streamlit**, powered by **GPT-2
 
 ## 📸 Demo
 
-Try it live 👉 [https://fantasy-dungeon-sujithra.streamlit.app](https://fantasy-dungeon-sujithra.streamlit.app)  
+Try it live 👉 [https://ai-dungeon-story-generator-dj6pllxxstmjvmjoggy5dx.streamlit.app/]
 *(Replace with your actual URL after deployment)*
 
 ---
